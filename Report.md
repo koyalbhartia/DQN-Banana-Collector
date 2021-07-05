@@ -33,6 +33,8 @@ Input layer of 37 neurons : Environemnt observation space
 64 neurons second hidden layer - followed by Re:U activation functions
 Output layer - 4 neurons : 4 possible actions
 
+The above is based on a feed-forward neural network used to approximate Q(s,a).
+
 
 ### Agent hyperparameters to learn and interact with the environment :
 ```
