@@ -57,10 +57,6 @@ And select the appropiate file to train and test the model.
 7. Edit the location of Banana linux in code cell 2 with your username and run the notebook( Hit  **Shift + Enter**) 
 
 
-## Project Report :
-
-[Architecture and project report](https://github.com/koyalbhartia/DQN-Banana-Collector/blob/main/Report.md)
-
 ## Overall Results :
 
 ![Screenshot from 2021-07-05 17-28-20](https://user-images.githubusercontent.com/40532456/124523231-dd847380-ddbb-11eb-9e1a-f084f0d81aee.png)
