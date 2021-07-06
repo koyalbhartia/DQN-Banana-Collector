@@ -3,7 +3,7 @@ Reinforcement Algorithm with Deep Q nework (DQN)
 The projects uses several RL techniques such as DQN, Experience Replay etc to train an agent to grab yellow bananas(Reward +1) and leave the blue ones(Reward -1). 
 The Unity Envirornment used in this case is considered to be solved when we get an average of 13 points over 100 episodes.
 
-Below is a glimpse of an output of the trained model.
+Below is a glimpse of the model being trained.
 
 https://user-images.githubusercontent.com/40532456/124524651-7964ae00-ddc1-11eb-8d28-e4c0eaba7fce.mp4
 
